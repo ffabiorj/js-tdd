@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Nossa lib do curso de js com TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffabiorj/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Fabio Oliveira <fabio20rj@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffabiorj/js-tdd/issues"
+  },
+  "homepage": "https://github.com/ffabiorj/js-tdd#readme"
+}
